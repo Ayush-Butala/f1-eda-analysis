@@ -213,7 +213,7 @@ Standard preprocessing steps—such as enforcing consistent data types, validati
 - **Interpretation:** More pit stops generally "hurt" results because track position is too valuable to regain, except in cases of extreme weather.
 
 **Q9. Is pit stop strategy more important at certain circuits?**
-![Impact of number of pit stops on finishing position (2011–2024)](visuals/impact_of_number_of_pit_stops.png)
+![Impact of number of pit stops on finishing position (2011–2024)](visuals/impact_of_pit_stops.png)
 
 - **Data Scope:** 2011–2024.
 - **Insight:** At the Spanish GP, the "penalty" for an extra stop is steep (boxes are separated). At the Hungarian GP, the finishing positions for 2-stop vs 3-stop strategies overlap significantly.
