@@ -193,7 +193,8 @@ Standard preprocessing steps—such as enforcing consistent data types, validati
 
 ## Section 4: Circuits & Race Behavior (2005–2024)
 
-**Q7. Which circuits are most unpredictable?**
+**Q7. Which circuits are most unpredictable?**  
+
 ![DNFs per circuit (1950–2024)](visuals/dnfs_per_circuits.png)
 
 - **Data Scope:** 1950–2024.
@@ -205,6 +206,7 @@ Standard preprocessing steps—such as enforcing consistent data types, validati
 ## Section 5: Pit Stops & Strategy (2011–2024)
 
 **Q8. Do more pit stops hurt final position?**
+
 ![Impact of pit stops on final position (2011–2024)](visuals/impact_of_pit_stop_on_final_position.png)
 
 - **Data Scope:** 2011–2024 (Modern high-deg tire era).
