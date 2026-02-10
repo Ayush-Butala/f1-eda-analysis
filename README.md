@@ -7,8 +7,7 @@
 1. **Clone the repository**
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Ayush-Butala/f1-eda-analysis.git
 ```
 
 2. **Create a virtual environment (optional but recommended)**
